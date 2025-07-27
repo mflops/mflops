@@ -13,14 +13,14 @@ Hi, I’m Madhur. I build full-stack applications and enjoy working across the s
   Live: [yappie.vercel.app](https://yappie.vercel.app)
 
 - [Real-Time Chat App](https://github.com/mflops/chat-app) – Next.js, Convex, Clerk, Tailwind CSS, ShadCN  
-  Live: [chat-app.vercel.app](https://chat-app.vercel.app)
+  Live: [chat-app.vercel.app](https://chat-app-eight-hazel.vercel.app)
 
 - [Stock Price Predictor](https://github.com/mflops/Stock-Price-Predictor) – TensorFlow, Streamlit, yFinance, pandas  
   Live: [stckpred.streamlit.app](https://stckpred.streamlit.app)
 
 ---
 
-[GitHub](https://github.com/mflops) • [Twitter](https://x.com/mflops_) • [LinkedIn](https://linkedin.com/in/madhur-chawla)
+[GitHub](https://github.com/mflops) • [Twitter](https://x.com/mxdzzz_) • [LinkedIn](https://www.linkedin.com/in/madhur-chawla-2973b5298/)
 
 <!--
 **mflops/mflops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
